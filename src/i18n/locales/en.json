@@ -29,6 +29,10 @@
     "becomePartner": "Become a Partner"
   },
   "donate": {
+      "title1": "Help Education Fund",
+    "title2": "Support Health Care",
+    "title3": "Build Clean Water Systems",
+    "title4": "Feed the Hungry",
     "altText": "Donation Image",
     "raised": "Raised :",
     "goal": "Goal :",

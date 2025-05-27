@@ -2,6 +2,8 @@ import { useTranslation } from "react-i18next";
 import { IonIcon } from "@ionic/react";
 import { menuOutline, searchOutline, heartOutline } from "ionicons/icons";
 import "../HeaderSection/header.css";
+import Logo from "../../assets/logo.png";
+
 
 const Header = ({ onMenuClick }) => {
   const { t, i18n } = useTranslation();
@@ -16,8 +18,9 @@ const Header = ({ onMenuClick }) => {
     <header className="header" data-header>
       <div className="container">
         <h1>
-          <a href="#" className="logo">
-            {t("header.logo")}
+          <a href="#" className="logo flex items-center">
+            <img src={Logo} alt="Logo" style={{ height: "80px" }} />
+
           </a>
         </h1>
 
@@ -42,9 +45,9 @@ const Header = ({ onMenuClick }) => {
         </button>
 
         <div className="header-action">
-          <button className="search-btn" aria-label={t("header.search")}>
+          {/* <button className="search-btn" aria-label={t("header.search")}>
             <IonIcon icon={searchOutline} />
-          </button>
+          </button> */}
 
           <button className="btn btn-primary donation-btn">
             <span>{t("header.donation")}</span>

@@ -17,6 +17,7 @@ const donationData = [
     goal: '$34562',
     raise: '$562',
     toGo: '$864',
+    titleKey: 'donate.title1',
   },
   {
     image: donate2,
@@ -25,22 +26,7 @@ const donationData = [
     goal: '$34562',
     raise: '$562',
     toGo: '$864',
-  },
-  {
-    image: donate3,
-    raised: '$256',
-    progress: '83%',
-    goal: '$34562',
-    raise: '$562',
-    toGo: '$864',
-  },
-  {
-    image: donate4,
-    raised: '$256',
-    progress: '83%',
-    goal: '$34562',
-    raise: '$562',
-    toGo: '$864',
+    titleKey: 'donate.title2',
   },
 ];
 
@@ -80,7 +66,8 @@ const DonateSection = () => {
                     <div className="progress"></div>
                   </div>
 
-                  <h3 className="h3 card-title">{t('donate.title')}</h3> {/* Translated title */}
+                  <h3 className="h3 card-title">{t(item.titleKey)}</h3>
+
 
                   <div className="card-wrapper">
                     <p className="card-wrapper-text">
