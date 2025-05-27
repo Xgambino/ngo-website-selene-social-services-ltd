@@ -1,0 +1,33 @@
+
+.partner {
+  background-color: var(--baby-powder);
+}
+
+.partner .container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  gap: 50px;
+}
+.partner-logo {
+  position: relative;
+  display: inline-block;
+  width: auto;
+  height: auto;
+}
+
+.partner-logo .color,
+.partner-logo:is(:hover, :focus) .gray {
+  display: none;
+}
+
+.partner-logo:is(:hover, :focus) .color,
+.partner-logo .gray {
+  display: block;
+}
+.partner-logo img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}

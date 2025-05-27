@@ -1,0 +1,90 @@
+{
+  "header": {
+    "logo": "SSL",
+    "language": {
+      "english": "English",
+      "french": "French",
+      "spanish": "Spanish"
+    },
+    "donation": "Donation",
+    "search": "Search"
+  },
+  "about": {
+    "title": "About Us",
+    "whyChooseUs": "Why Choose Us",
+    "title2": "Raise Your Hand To Save",
+    "titleStrong": "Human Life",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "nextPlan": "Next Plan",
+    "tabContent": "Lorem ipsum dolor sit amet consectetur...",
+    "charityFood": "Charity For Food",
+    "charityEducation": "Charity For Education",
+    "charityWater": "Charity For Water",
+    "charityMedical": "Charity For Medicine",
+    "learnMore": "Learn More About Us"
+  },
+  "cta": {
+    "title": "324+ Reliable Global Partners",
+    "becomePartner": "Become a Partner"
+  },
+  
+  "donate": {
+    "altText": "Image de donation",
+    "raised": "Collecté :",
+    "goal": "Objectif :",
+    "raise": "Collecte :",
+    "toGo": "À collecter :",
+    "title": "Levez la main pour sauver les animaux",
+    "donateButton": "Don"
+  },
+    
+  
+  "testimonial": {
+    "subtitle": "Nuestros Testimonios",
+    "title": "Lo que la gente dice sobre",
+    "titleStrong": "Nuestra Organización",
+    "avatarAlt": "David S. Neuman",
+    "quote": "Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium totam rem aperiam eaquesa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo enim psam voluptatem.",
+    "name": "David S. Neuman",
+    "position": "Gerente de Negocios",
+    "bannerAlt": "Rinoceronte"
+  },
+    "event": {
+    "subtitle": "Eventos y Programas",
+    "title": "Nuestras Causas Más Populares Para",
+    "titleStrong": "Fondo de Construcción",
+    "viewEvents": "Ver Eventos",
+    "learnMore": "Conocer Más Sobre Nosotros"
+  },
+  "features": {
+    "safeShelterTitle": "Refugio Seguro",
+    "safeShelterDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "safeWaterTitle": "Agua Potable",
+    "safeWaterDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "ecologySaveTitle": "Salvar la Ecología",
+    "ecologySaveDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "environmentTitle": "Medio Ambiente",
+    "environmentDescription": "Sit amet consecte adiscine eiusm temor ultrices."
+  },
+   "services": {
+    "subtitle": "Lo Que Hacemos",
+    "title": {
+      "part1": "Trabajamos Diferente para",
+      "part2": "mantener el mundo seguro"
+    },
+    "readMore": "Leer más",
+    "saveNatureTitle": "Salvar la Naturaleza",
+    "saveNatureText": "Trabajo temporal y dolor suspendido",
+    "saveEcologyTitle": "Salvar la Ecología",
+    "saveEcologyText": "Trabajo temporal y dolor suspendido",
+    "treePlantationTitle": "Plantación de Árboles",
+    "treePlantationText": "Trabajo temporal y dolor suspendido",
+    "clearOceanTitle": "Océano Limpio",
+    "clearOceanText": "Trabajo temporal y dolor suspendido"
+  }
+
+
+
+
+}

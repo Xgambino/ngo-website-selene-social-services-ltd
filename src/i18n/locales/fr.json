@@ -1,0 +1,79 @@
+{
+  "header": {
+    "logo": "SSL",
+    "language": {
+      "english": "Anglais",
+      "french": "Français",
+      "spanish": "Espagnol"
+    },
+    "donation": "Don",
+    "search": "Recherche"
+  },
+  "about": {
+    "title": "À Propos De Nous",
+    "whyChooseUs": "Pourquoi Nous Choisir",
+    "title2": "Levez La Main Pour Sauver",
+    "titleStrong": "La Vie Humaine",
+    "mission": "Notre Mission",
+    "vision": "Notre Vision",
+    "nextPlan": "Prochain Plan",
+    "tabContent": "Lorem ipsum dolor sit amet consectetur...",
+    "charityFood": "Charité Pour Les Aliments",
+    "charityEducation": "Charité Pour L'Éducation",
+    "charityWater": "Charité Pour L'Eau",
+    "charityMedical": "Charité Pour La Médecine",
+    "learnMore": "En Savoir Plus Sur Nous"
+  },
+  "cta": {
+    "title": "324+ Partenaires Globaux Fiables",
+    "becomePartner": "Devenez Partenaire"
+  },
+  
+  "testimonial": {
+    "subtitle": "Nos Témoignages",
+    "title": "Ce que les gens disent de",
+    "titleStrong": "Notre Organisation",
+    "avatarAlt": "David S. Neuman",
+    "quote": "Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium totam rem aperiam eaquesa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo enim psam voluptatem.",
+    "name": "David S. Neuman",
+    "position": "Responsable Commercial",
+    "bannerAlt": "Rhinocéros"
+  },
+    "event": {
+    "subtitle": "Événement & Programme",
+    "title": "Nos Causes Les Plus Populaires Pour",
+    "titleStrong": "Le Fonds de Construction",
+    "viewEvents": "Voir les Événements",
+    "learnMore": "En Savoir Plus Sur Nous"
+  },
+  
+  "features": {
+    "safeShelterTitle": "Abri Sûr",
+    "safeShelterDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "safeWaterTitle": "Eau Potable",
+    "safeWaterDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "ecologySaveTitle": "Écologie Sauver",
+    "ecologySaveDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "environmentTitle": "Environnement",
+    "environmentDescription": "Sit amet consecte adiscine eiusm temor ultrices."
+  },
+  "services": {
+    "subtitle": "Ce que nous faisons",
+    "title": {
+      "part1": "Nous travaillons différemment pour",
+      "part2": "protéger le monde"
+    },
+    "readMore": "En savoir plus",
+    "saveNatureTitle": "Protéger la nature",
+    "saveNatureText": "Travail temporaire, douleur, effort suspendu",
+    "saveEcologyTitle": "Protéger l'écologie",
+    "saveEcologyText": "Travail temporaire, douleur, effort suspendu",
+    "treePlantationTitle": "Plantation d'arbres",
+    "treePlantationText": "Travail temporaire, douleur, effort suspendu",
+    "clearOceanTitle": "Océan propre",
+    "clearOceanText": "Travail temporaire, douleur, effort suspendu"
+  }
+
+
+
+}

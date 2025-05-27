@@ -1,0 +1,49 @@
+
+/*-----------------------------------*\
+    #HEADER
+  \*-----------------------------------*/
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: var(--eerie-black-1);
+  padding-block: 18px;
+  z-index: 900;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header::after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: calc(100% - 140px);
+  height: 1px;
+  background-color: var(--white_10);
+}
+
+.header.active {
+  background-color: var(--eerie-black-1);
+  box-shadow: 0 0 10px hsla(0, 0%, 0%, 0.8);
+}
+
+.header.active::after {
+  display: none;
+}
+
+.header .container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 50px;
+}
+/* Hide donation button on mobile */
+@media (max-width: 768px) {
+  .donation-btn {
+    display: none;
+  }
+}

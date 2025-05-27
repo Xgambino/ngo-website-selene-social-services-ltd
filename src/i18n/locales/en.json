@@ -1,0 +1,86 @@
+{
+  "header": {
+    "logo": "SSL",
+    "language": {
+      "english": "English",
+      "french": "French",
+      "spanish": "Spanish"
+    },
+    "donation": "Donation",
+    "search": "Search"
+  },
+  "about": {
+    "title": "About Us",
+    "whyChooseUs": "Why Choose Us",
+    "title2": "Raise Your Hand To Save",
+    "titleStrong": "Human Life",
+    "mission": "Our Mission",
+    "vision": "Our Vision",
+    "nextPlan": "Next Plan",
+    "tabContent": "Lorem ipsum dolor sit amet consectetur...",
+    "charityFood": "Charity For Food",
+    "charityEducation": "Charity For Education",
+    "charityWater": "Charity For Water",
+    "charityMedical": "Charity For Medicine",
+    "learnMore": "Learn More About Us"
+  },
+  "cta": {
+    "title": "324+ Reliable Global Partners",
+    "becomePartner": "Become a Partner"
+  },
+  "donate": {
+    "altText": "Donation Image",
+    "raised": "Raised :",
+    "goal": "Goal :",
+    "raise": "Raise :",
+    "toGo": "To Go :",
+    "title": "Raise Hand To Save Trees",
+    "donateButton": "Donation"
+  },
+    "testimonial": {
+    "subtitle": "Our Testimonials",
+    "title": "What People Say About",
+    "titleStrong": "Our Organization",
+    "avatarAlt": "David S. Neuman",
+    "quote": "Sed ut perspiciatis unde omnis iste natus error voluptatem accusantium doloremque laudantium totam rem aperiam eaquesa quae ab illo inventore veritatis quasi architecto beatae vitae dicta sunt explicabo enim psam voluptatem.",
+    "name": "David S. Neuman",
+    "position": "Business Manager",
+    "bannerAlt": "Rhinoceros"
+  },
+  
+  "event": {
+    "subtitle": "Event & Program",
+    "title": "Our Most Popular Causes For",
+    "titleStrong": "Building Fund",
+    "viewEvents": "View Events",
+    "learnMore": "Learn More Us"
+  },
+    "features": {
+    "safeShelterTitle": "Safe Shelter",
+    "safeShelterDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "safeWaterTitle": "Safe Water",
+    "safeWaterDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "ecologySaveTitle": "Ecology Save",
+    "ecologySaveDescription": "Sit amet consecte adiscine eiusm temor ultrices.",
+    "environmentTitle": "Environment",
+    "environmentDescription": "Sit amet consecte adiscine eiusm temor ultrices."
+  },
+    "services": {
+    "subtitle": "What We Do",
+    "title": {
+      "part1": "We Work Differently to",
+      "part2": "keep The World Safe"
+    },
+    "readMore": "Read More",
+    "saveNatureTitle": "Save Nature",
+    "saveNatureText": "Tempor incididunt ut labores dolore magna suspene",
+    "saveEcologyTitle": "Save Ecology",
+    "saveEcologyText": "Tempor incididunt ut labores dolore magna suspene",
+    "treePlantationTitle": "Tree Plantation",
+    "treePlantationText": "Tempor incididunt ut labores dolore magna suspene",
+    "clearOceanTitle": "Clear Ocean",
+    "clearOceanText": "Tempor incididunt ut labores dolore magna suspene"
+  }
+
+
+}
